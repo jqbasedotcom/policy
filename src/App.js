@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="mx-[20px]">
+    <div className="mt-[50px]">
       <Privacy />
   </div>
   );
