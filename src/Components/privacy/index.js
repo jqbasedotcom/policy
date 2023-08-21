@@ -1,7 +1,7 @@
-import DataCollected from "./DataCollected";
-import Definition from "./Definition";
-import { data } from "./data";
-import Intro from "./intro";
+import DataCollected from "../privacy/DataCollected";
+import Definition from "../privacy/Definition";
+import { data } from "../privacy/data";
+import Intro from "../privacy/intro";
 const Pravacy = ()=>{
     return <div className="container mx-auto">
         {/* Title */}
