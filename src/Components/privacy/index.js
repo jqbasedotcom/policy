@@ -57,7 +57,7 @@ const Pravacy = ()=>{
         </div>
         
         {/* Refund Policy */}
-        <div className="mt-[30px]">
+        {/* <div className="mt-[30px]">
             <p>8. <b>Purchase Terms and Unlock Code</b></p>
             <div className="pt-1 pb-1"></div>
             <p>Our product features an unlock code system that ensures its proper usage and security. Each unlock code is uniquely generated for the purchaser and is intended solely for their use. Please note the following terms regarding the unlock code</p>
@@ -73,11 +73,11 @@ const Pravacy = ()=>{
             <div className="pt-1 pb-1"></div>
             <p>We appreciate your understanding of these terms and your cooperation in maintaining the integrity of our product's unlock code system.</p>
             <div className="pt-1 pb-1"></div>
-        </div>
+        </div> */}
 
         {/* Contact Us */}
         <div className="mt-[30px]">
-            <p>9. <b>Contact Us</b></p>
+            <p>8. <b>Contact Us</b></p>
             <div className="pt-1 pb-1"></div>
             <p>If you have any questions about this Privacy Policy, please contact us by email: <b>{data.email}</b> phone: <b>{data.phone}</b>.</p>
         </div>
