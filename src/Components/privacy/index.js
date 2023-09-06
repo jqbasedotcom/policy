@@ -86,7 +86,7 @@ const Pravacy = ()=>{
         <div className="mt-[30px]">
             <p>Last updated: <b>{data.lastUpdated}</b></p>
             <div className="pt-1 pb-1"></div>
-            <p>Integrated Solution Myanmar</p>
+            <p>JQBase</p>
             <div className="pt-1 pb-1"></div>
             <p>{data.email}</p>
         </div>
